@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+diswebhookutils/__init__.py
+diswebhookutils.egg-info/PKG-INFO
+diswebhookutils.egg-info/SOURCES.txt
+diswebhookutils.egg-info/dependency_links.txt
+diswebhookutils.egg-info/top_level.txt

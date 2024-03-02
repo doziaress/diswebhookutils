@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: diswebhookutils
+Version: 0.0.1
+Summary: A simple module to send embeds/messages with discord webhooks!
+Home-page: https://github.com/iambeta666/diswebhookutils
+Author: BETA666
+Author-email: fake@fake.com
+License: MIT
+Keywords: popup
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
